@@ -1,0 +1,4 @@
+firstDistance = 45.387 км
+dailyNorm = 23.0 %
+days = 3
+maxDistance = 112.287 км
